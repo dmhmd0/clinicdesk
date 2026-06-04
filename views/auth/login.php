@@ -12,6 +12,7 @@ $pageTitle = 'Login';
 
     <link rel="stylesheet" href="public/assets/adminlte/plugins/fontawesome-free/css/all.min.css">
     <link rel="stylesheet" href="public/assets/adminlte/dist/css/adminlte.min.css">
+    <link rel="stylesheet" href="public/assets/css/custom.css">
 </head>
 <body class="hold-transition login-page">
 
